@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    cout << "hello Github";
+    cout << "hello Github" << "what's wrong";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
