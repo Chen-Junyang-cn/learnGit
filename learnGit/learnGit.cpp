@@ -2,10 +2,10 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello Github!\n";
+    cout << "hello Github";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
